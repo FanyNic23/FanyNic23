@@ -6,7 +6,7 @@ Actualmente busco seguir creciendo profesionalmente y encontrar oportunidades de
 
 ---
 
-### 🚀 Sobre mí
+### 👩‍💻 Sobre mí
 
 - 🌱 Estoy fortaleciendo mis conocimientos en **arquitectura de software, desarrollo web y bases de datos**.
 - 💻 Me interesa el desarrollo **frontend y backend**.
