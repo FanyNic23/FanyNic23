@@ -1,6 +1,6 @@
 # ¡Hola, soy Fany Palomino! 👋
 
-Soy estudiante de **Ingeniería de Sistemas** y desarrolladora apasionada por crear soluciones web eficientes, aprender nuevas tecnologías y transformar necesidades en aplicaciones útiles.
+Soy egresada de **Ingeniería de Sistemas** y desarrolladora apasionada por crear soluciones web eficientes, aprender nuevas tecnologías y transformar necesidades en aplicaciones útiles.
 
 Actualmente busco seguir creciendo profesionalmente y encontrar oportunidades de prácticas profesionales en desarrollo de software.
 
