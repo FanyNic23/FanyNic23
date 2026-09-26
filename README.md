@@ -12,7 +12,7 @@ Actualmente busco seguir creciendo profesionalmente y encontrar oportunidades de
 - 💻 Me interesa el desarrollo **frontend y backend**.
 - 🧩 Disfruto trabajar con arquitecturas organizadas, APIs RESTful y soluciones orientadas al usuario.
 - 🤝 Estoy abierta a aprender, colaborar en equipos y participar en proyectos de software.
-- 📫 Puedes contactarme en [fany.palomino.23@gmail.com](mailto:fany.palomino.23@gmail.com).
+- 📫 Puedes contactarme en [fany_nicol_23@hotmail.com](mailto:fany_nicol_23@hotmail.com).
 
 ---
 
@@ -65,4 +65,4 @@ Actualmente busco seguir creciendo profesionalmente y encontrar oportunidades de
 ### 🌐 Conecta conmigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FanyNic23)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fany.palomino.23@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:fany_nicol_23@hotmail.com)
