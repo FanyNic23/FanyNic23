@@ -2,7 +2,7 @@
 
 Soy estudiante de **Ingeniería de Sistemas** y desarrolladora apasionada por crear soluciones web eficientes, aprender nuevas tecnologías y transformar necesidades en aplicaciones útiles.
 
-Actualmente busco seguir creciendo profesionalmente y encontrar oportunidades de prácticas preprofesionales en desarrollo de software.
+Actualmente busco seguir creciendo profesionalmente y encontrar oportunidades de prácticas profesionales en desarrollo de software.
 
 ---
 
@@ -64,6 +64,5 @@ Actualmente busco seguir creciendo profesionalmente y encontrar oportunidades de
 
 ### 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fany-palomino-yupanqui-5218442ba/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FanyNic23)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fany.palomino.23@gmail.com)
