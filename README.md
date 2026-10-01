@@ -52,15 +52,8 @@ Actualmente busco seguir creciendo profesionalmente y encontrar oportunidades de
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-### 📊 Estadísticas de GitHub
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=FanyNic23&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Fany" />
-</p>
-
----
 
 ### 🌐 Conecta conmigo
 
